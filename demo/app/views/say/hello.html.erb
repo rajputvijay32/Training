@@ -1,0 +1,22 @@
+<h1>Hello first rails!</h1>
+
+<p>
+  <h4>It is : <%= @time  %> now</h4>
+  Say <a href="/say/goodbye">Goodbye</a>!
+</p>
+
+
+
+
+<p>
+  Addition: <%= 1+2 %>
+  Concatenation: <%= "cow" + "boy" %>
+  Time in one hour: <%= 1.hour.from_now %>
+</p>
+
+<h4>Files are in current directory</h4>
+<p>
+  <% for file in @files %>
+      <b><%= file %>, </b>
+  <% end %>
+</p>
