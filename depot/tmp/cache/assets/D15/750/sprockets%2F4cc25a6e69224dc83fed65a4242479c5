@@ -1,0 +1,72 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1459697570.278627:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%3c894e06f30bd87632125d1953dd9b9cI"logical_path;
+FI"products.css;
+TI"pathname;
+FI"3$root/app/assets/stylesheets/products.css.scss;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2016-04-01T18:42:29+05:30;
+FI"	body;
+FI"Ä/* line 5, ../../app/assets/stylesheets/products.css.scss */
+.products table {
+  border-collapse: collapse;
+}
+/* line 8, ../../app/assets/stylesheets/products.css.scss */
+.products table tr td {
+  padding: 5px;
+  vertical-align: top;
+}
+/* line 12, ../../app/assets/stylesheets/products.css.scss */
+.products .list_image {
+  width: 60px;
+  height: 70px;
+}
+/* line 16, ../../app/assets/stylesheets/products.css.scss */
+.products .list_description {
+  width: 60%;
+}
+/* line 18, ../../app/assets/stylesheets/products.css.scss */
+.products .list_description dl {
+  margin: 0;
+}
+/* line 21, ../../app/assets/stylesheets/products.css.scss */
+.products .list_description dt {
+  color: #244;
+  font-weight: bold;
+  font-size: larger;
+}
+/* line 28, ../../app/assets/stylesheets/products.css.scss */
+.products .list_description dd {
+  margin: 0;
+}
+/* line 32, ../../app/assets/stylesheets/products.css.scss */
+.products .list_actions {
+  font-size: x-small;
+  text-align: right;
+  padding-left: 1em;
+}
+/* line 39, ../../app/assets/stylesheets/products.css.scss */
+.products .list_line_even {
+  background: #e0f8f8;
+}
+/* line 44, ../../app/assets/stylesheets/products.css.scss */
+.products .list_line_odd {
+  background: #f8b0f8;
+}
+;
+FI"asset_paths;
+F[I"3$root/app/assets/stylesheets/products.css.scss;
+TI"dependency_paths;
+F[{I"	path;
+FI"3$root/app/assets/stylesheets/products.css.scss;
+TI"
+mtime;
+FIu:	Time-€ƒÝ1
+:@_zoneI"IST;
+T:nano_numi :nano_deni:submicro":offsetiXMI"hexdigest;
+F"%b1aad950e9d0f8dc7bc0ac5fb047fabcI"_version;
+F"%d3399da1890ef54eecbcf24324b9c72a
