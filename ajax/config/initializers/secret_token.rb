@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Ajax::Application.config.secret_token = '4842aa0ed8381d5b9dccfa371d8b8709d3933fdcfdeca720e9c3674c1ebcfb7e174de9aafaced3a4f4143f8ce0585a8cfa2ec7832fbd78cfb8634708d14d64e8'
+Ajax::Application.config.secret_token = 'f2615891afd20aa8412e6d43d5e22e4ebb6ef2c3285f28b18fb25be98951574225db5bad385a39e2f0b58c1a7266394011cbe324dc13e9733ec972984d236343'
